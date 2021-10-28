@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rachelhester! I'm currently a senior at Florida State University majoring in Information Technology and minoring in Computer Science! 
+- 👋 Hi, I’m @rachelhester! I'm currently a senior at Florida State University graduating in Spring 2022 and majoring in Information Technology and minoring in Computer Science! 
 - 👀 I’m interested in web application development and front-end development. I am currently a software developer intern for Marquis Software and am always looking to gain more experience!
-- 🌱 I’m currently learning how to use React in web development. 
-- 💞️ I’m interested in learning more about web development and front-end development in general! 
+- 🌱 A lot of my coursework from college is posted on here as well as *hopefully soon* some personal projects!  
+- 💞️ I hope to learn more about web development and front-end development/web design! 
 - 📫 How to reach me: 
 racheyhester@gmail.com
 https://linkedin.com/in/rahester
